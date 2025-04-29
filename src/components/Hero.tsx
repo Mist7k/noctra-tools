@@ -48,7 +48,7 @@ export default function Hero() {
             display={'inline'}
             color={'primary'}
           >
-            Omni Tools
+            Noctra Tools
           </Typography>
         </Typography>
       </Stack>
