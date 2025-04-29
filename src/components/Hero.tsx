@@ -57,7 +57,7 @@ export default function Hero() {
         fontSize={{ xs: 15, md: 20 }}
         mb={2}
       >
-        Boost your productivity with Omni Tools, the ultimate toolkit for
+        Boost your productivity with Noctra Tools, the ultimate toolkit for
         getting things done quickly! Access thousands of user-friendly utilities
         for editing images, text, lists, and data, all directly from your
         browser.
